@@ -4,7 +4,7 @@
  * Full docs: https://github.com/decaffeinate/decaffeinate/blob/master/docs/suggestions.md
  */
 // Dependencies
-const pixelPng = require('../src');
+const pixelPng = require('../src').default;
 const fixture = require('fixture-images');
 
 // Environment

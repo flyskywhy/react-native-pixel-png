@@ -18,8 +18,10 @@
   "author": "59naga <i59naga@icloud.com> (http://berabou.me)",
   "license": "MIT",
   "dependencies": {
-    "apng-canvas-parser": "git://github.com/59naga/apng-canvas-parser.git#727a15dcea6a070569e3b331966f4e3fd92d3a6c",
-    "pixel-util": "0.0.2"
+    "apng-js-no-blob": "^2.0.0",
+    "assert": "^2.0.0",
+    "react-native-pixel-util": "^1.1.0",
+    "react-native-png": "0.0.5"
   },
   "devDependencies": {
     "brfs": "^1.4.1",
