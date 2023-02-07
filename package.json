@@ -1,7 +1,7 @@
 {
-  "name": "pixel-png",
-  "version": "0.0.1",
-  "description": "Parse PNG to ImageData in cross-platform",
+  "name": "react-native-pixel-png",
+  "version": "1.0.0",
+  "description": "Parse PNG or APNG (Animated PNG) to ImageData for React Native",
 
   "main": "src",
 
@@ -16,6 +16,13 @@
   },
 
   "author": "59naga <i59naga@icloud.com> (http://berabou.me)",
+  "contributors": [
+    {
+      "name": "Li Zheng",
+      "email": "flyskywhy@gmail.com",
+      "url": "https://github.com/flyskywhy"
+    }
+  ],
   "license": "MIT",
   "dependencies": {
     "apng-js-no-blob": "^2.0.0",
@@ -32,15 +39,19 @@
   },
 
   "keywords": [
+    "animated",
+    "apng",
+    "imagedata",
     "pixel",
-    "png"
+    "png",
+    "react-native"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/59naga/pixel-png.git"
+    "url": "git+https://github.com/flyskywhy/react-native-pixel-png.git"
   },
   "bugs": {
-    "url": "https://github.com/59naga/pixel-png/issues"
+    "url": "https://github.com/flyskywhy/react-native-pixel-png/issues"
   },
-  "homepage": "https://github.com/59naga/pixel-png#readme"
+  "homepage": "https://github.com/flyskywhy/react-native-pixel-png#readme"
 }
