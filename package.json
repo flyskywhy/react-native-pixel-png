@@ -1,6 +1,6 @@
 {
   "name": "react-native-pixel-png",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Parse PNG or APNG (Animated PNG) to ImageData for React Native",
 
   "main": "src",
