@@ -54,7 +54,7 @@ pixelPng.parse(file).then(function(images){
 > `images` can be resized and also keep property e.g. `delay` by `resizeImageDatas` of [react-native-pixel-util](https://github.com/flyskywhy/react-native-pixel-util).
 
 # Related projects
-* [react-native-pixel](https://github.com/flyskywhy/react-native-pixel)
+* [react-native-pixel-image](https://github.com/flyskywhy/react-native-pixel-image)
 * [react-native-pixel-util](https://github.com/flyskywhy/react-native-pixel-util)
 * [react-native-pixel-gif](https://github.com/flyskywhy/react-native-pixel-gif)
 * __react-native-pixel-png__
