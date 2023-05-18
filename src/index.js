@@ -7,7 +7,7 @@
 // Dependencies
 import {PixelUtil} from 'react-native-pixel-util';
 import parseAPNG, {isNotAPNG} from 'apng-js-no-blob';
-import {PNG} from 'react-native-png';
+import {PNG} from 'react-native-png-stream-browserify';
 import ImageData from '@canvas/image-data';
 
 class PixelPng extends PixelUtil {

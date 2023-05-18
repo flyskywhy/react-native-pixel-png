@@ -28,7 +28,7 @@
     "apng-js-no-blob": "^2.0.0",
     "assert": "^2.0.0",
     "react-native-pixel-util": "^1.1.1",
-    "react-native-png": "0.0.5"
+    "react-native-png-stream-browserify": "1.0.0"
   },
   "devDependencies": {
     "brfs": "^1.4.1",
